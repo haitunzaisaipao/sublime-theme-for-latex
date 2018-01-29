@@ -2,10 +2,16 @@
 
 two simple sublime text theme fot latex
 
-white theme:
+
+catex theme:
+=============
+
 
 ![](https://github.com/haitunzaisaipao/sublime-theme-for-latex/blob/master/catex.png)
 
-dark theme:
+
+
+catexdark theme:
+=============
 
 ![](https://github.com/haitunzaisaipao/sublime-theme-for-latex/blob/master/catexdark.png)
