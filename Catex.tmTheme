@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>settings</key>
+		<array>
+			<dict>
+				<key>settings</key>
+				<dict>
+					<key>background</key>
+					<string>#FFFFFF</string>
+					<key>caret</key>
+					<string>#333333</string>
+					<key>foreground</key>
+					<string>#000000</string>
+					<key>lineHighlight</key>
+					<string>#DDDDDD</string>
+					<key>bracketContentsOptions</key>
+					<string>foreground</string>
+					<key>bracketsOptions</key>
+					<string>foreground</string>
+					<key>bracketContentsForeground</key>
+					<string>#007F0E</string>
+					<key>bracketsForeground</key>
+					<string>#007F0E</string>
+					<key>selection</key>
+					<string>#999999</string>
+				</dict>
+			</dict>
+
+			<dict>
+				<key>com</key>
+				<string>数学公式</string>	
+				<key>scope</key>
+				<string>meta.environment.math</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#850404</string>
+				</dict>				
+			</dict>
+
+			<dict>
+				<key>com</key>
+				<string>begin关键字</string>				
+				<key>scope</key>
+				<string>keyword.control</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0122FF</string>
+				</dict>				
+			</dict>
+
+				<dict>
+				<key>com</key>
+				<string>公式符号</string>				
+				<key>scope</key>
+				<string>punctuation.definition.string</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0122FF</string>
+				</dict>				
+			</dict>
+
+			<dict>
+				<key>com</key>
+				<string>参数用黄色</string>
+				<key>scope</key>
+				<string>variable.parameter</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#0122FF</string>
+				</dict>				
+			</dict>
+
+			<dict>
+				<key>com</key>
+				<string>注释用灰色</string>
+				<key>scope</key>
+				<string>comment.line</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#888888</string>
+				</dict>				
+			</dict>
+
+			<dict>
+				<key>com</key>
+				<string>标签用绿色</string>
+				<key>scope</key>
+				<string>meta.function.label</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#409600</string>
+				</dict>				
+			</dict>
+
+			<dict>
+				<key>com</key>
+				<string>引用也用绿色</string>				
+				<key>scope</key>
+				<string>meta.function.reference</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#409600</string>
+				</dict>				
+			</dict>
+
+			<dict>
+				<key>com</key>
+				<string>自定义颜色</string>
+				<key>scope</key>
+				<string>userdef1</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#7FC9FF</string>
+				</dict>				
+			</dict>
+
+			<dict>
+				<key>com</key>
+				<string>章节</string>
+				<key>scope</key>
+				<string>meta.section</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#FEA632</string>
+				</dict>				
+			</dict>
+
+			<dict>
+				<key>name</key>
+				<string>Bracket</string>
+				<key>scope</key>
+				<string>brackethighlighter</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#FFFFFF</string>
+					<key>background</key>
+					<string>#FF0000</string>
+				</dict>
+			</dict>
+
+		</array>
+	</dict>
+</plist>
